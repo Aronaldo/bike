@@ -9,6 +9,4 @@ https://user-images.githubusercontent.com/53199542/208220856-b22d63f5-0aa8-42a0-
   <img src="https://user-images.githubusercontent.com/53199542/208327836-0398b881-145c-4abf-8af2-d566f122dea0.png" alt=![suzuk2] width="350" height="720" align="right"/>
 </div>
 
-<div>
-  <img src="https://user-images.githubusercontent.com/53199542/208333513-7e800a14-1e43-4ac2-9d95-27374a9fe94d.png" alt=![tabl] width="800" height="880" align="center"/>
-</div>
+<p align="center"> <img src="https://user-images.githubusercontent.com/53199542/208333513-7e800a14-1e43-4ac2-9d95-27374a9fe94d.png" width="800" height="880" alt="tabl"/></p>
